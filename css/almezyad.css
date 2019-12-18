@@ -1,0 +1,156 @@
+html,
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(236, 231, 240)
+}
+
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  opacity: 0.4;
+
+
+}
+
+.nav li {
+  display: inline;
+  margin: 0 20px 0 20px;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 20px;
+  text-decoration: none;
+  color: #000;
+  font-family: 'Bungee Inline', cursive;
+  text-shadow: 5px 5px 5px gray
+}
+
+
+
+.img1 {
+
+  margin: 0 auto;
+  border-radius: 6px;
+  height: 450px;
+  display: block;
+  width: 87%;
+  box-shadow: 5px 5px 5px gray;
+
+
+
+}
+
+.history {
+  margin: 0 auto 0px auto;
+  width: 90%;
+}
+
+.img2 {
+  width: 450px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  float: left;
+  border-radius: 6px;
+  box-shadow: 5px 5px 5px gray
+}
+
+.parg {
+  display: inline-block;
+  margin: 0 auto 0px auto;
+  padding: 10px 10px 10px 10px;
+  font-family: 'Trocchi', serif;
+}
+
+
+.map {
+
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px gray;
+  width: 95%;
+  height: auto;
+
+}
+
+
+.gallery {
+  margin: 5px;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 6px;
+  box-shadow: 5px 5px 5px gray;
+  width: 23%;
+
+
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 5px
+}
+
+.gallery1 {
+  width: 90%;
+  margin: 0 auto;
+  
+  
+}
+
+
+h1 {
+  padding: 50px 10px 10px 10px;
+  margin: 0 auto 30px auto;
+  font-family: 'Bungee Inline', cursive;
+  text-shadow: 5px 5px 5px gray
+}
+
+.sights1 {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 20px
+}
+
+.sights img {
+  border-radius: 5px;
+
+}
+
+.sights {
+  margin: 0 auto;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 6px;
+  box-shadow: 5px 5px 5px gray;
+  width: 32%;
+
+
+}
+
+.sights img {
+  width: 100%;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: 'Trocchi', serif;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: blanchedalmond;
+  padding: 7px;
+  font-family: 'Bungee Inline', cursive;
+  
+}
+
+
+@media 
